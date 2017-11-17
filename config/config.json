@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/myFirstSpFx/MyFirstSpFxWebPart.js",
+      "manifest": "./src/webparts/myFirstSpFx/MyFirstSpFxWebPart.manifest.json",
+      "outputPath": "./dist/my-first-sp-fx-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "MyFirstSpFxWebPartStrings": "webparts/myFirstSpFx/loc/{locale}.js"
+  }
+}
